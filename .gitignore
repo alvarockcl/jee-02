@@ -3,3 +3,4 @@ test/
 .classpath
 .settings
 .project
+.tern-project
